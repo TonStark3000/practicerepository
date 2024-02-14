@@ -1,2 +1,2 @@
 Hi, This is Ramesh
-from Bangalore
+from Bangalore, i am a developer there.
